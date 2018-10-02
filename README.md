@@ -10,5 +10,5 @@ The icons are from this source: http://www.alessioatzeni.com/meteocons/
 References for API Keys:
 ========================
 
-[Openweathermap.org API Key](https://openweathermap.org/appid#apply-for-an-api-key)
+[Openweathermap.org API Key](https://openweathermap.org/appid#apply-for-an-api-key)  
 [NASA API Key](https://api.nasa.gov/index.html#apply-for-an-api-key)
