@@ -1,0 +1,129 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    display: flex;
+    flex-direction: column;
+    background-color: #202938;
+    background-size: cover;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+}
+
+.container > section > section {
+    margin: auto;
+    width: 50%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    padding: 1rem;
+    filter: invert(80%);
+}
+
+.container > form {
+    margin: auto;
+    width: 70%;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+form > input[type=text] {
+    padding: .2rem;
+    color: #7c8aa3;
+    font-size: xx-large;
+    border: .1rem solid #62666c;
+    border-radius: 1rem;
+    background-color: #384459;
+    text-align: center;
+}
+
+#submit-button {
+    font-size: xx-large;
+    color: #202938;
+    margin-left: .5rem;
+}
+
+#date {
+   padding-bottom: 4rem;
+}
+
+form > input[type=submit] {
+    padding: .2rem .5rem;
+    background: #3b4960;
+    border: 0 none;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+
+form > input[type=text]:focus {
+    border-color: #818996;
+}
+
+#weather-container {
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 3rem;
+    background: rgba(0, 0, 0, .45);
+}
+
+#forecast-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: large;
+    text-align: center;
+    padding-top: 6rem;
+    background: rgba(0, 0, 0, .45)
+}
+
+#description-container {
+    background: rgba(0, 0, 0, .45);
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    paddin: .5rem;
+    margin-top: 1rem;
+}
+
+.forecast-temp {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: x-large;
+}
+
+.forecast-subcontainer {
+    padding: 1rem;
+}
+
+.forecast-temp-label {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: small;
+}
+
+#data-table {
+    display: flex;
+    flex-direction: row;
+}
+
+.center-temp {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.center-label {
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+section {
+    color: Gainsboro;
+}

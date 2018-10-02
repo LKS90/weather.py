@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg11868"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="50d.svg">
+  <defs
+     id="defs11862" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="148.31476"
+     inkscape:cy="29.330771"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="104"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata11865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54167)">
+    <g
+       id="g1898"
+       transform="matrix(0.41237793,0,0,0.41237793,-6.597869,262.73956)">
+      <g
+         display="none"
+         id="Base-37"
+         style="display:none" />
+      <g
+         id="Dibujo-139">
+        <g
+           id="g1875">
+          <path
+             id="path1857"
+             d="m 39,38 h 12 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 H 39 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1859"
+             d="m 27,44 h 24 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 H 27 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1861"
+             d="M 20.999,50 H 45 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 H 20.999 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1863"
+             d="m 80,54 c 0,-1.104 -0.896,-2 -2,-2 H 18 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 h 60 c 1.104,0 2,-0.896 2,-2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1865"
+             d="M 78,58 H 21 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 h 57 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1867"
+             d="M 39,64 27,63.999 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 L 39,68 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1869"
+             d="m 58,44 h 8 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 h -8 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1871"
+             d="m 49,48 c 0,1.104 0.895,2 2,2 h 21 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 H 51 c -1.105,0 -2,0.896 -2,2 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path1873"
+             d="M 72,63.999 45,64 c -1.105,0 -2,0.896 -2,2 0,1.104 0.895,2 2,2 l 27,-0.001 c 1.104,0 2,-0.896 2,-2 0,-1.104 -0.896,-2 -2,-2 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
