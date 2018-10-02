@@ -12,3 +12,6 @@ References for API Keys:
 
 [Openweathermap.org API Key](https://openweathermap.org/appid#apply-for-an-api-key)  
 [NASA API Key](https://api.nasa.gov/index.html#apply-for-an-api-key)
+
+
+![website view](/images/Capture.JPG)
